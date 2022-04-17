@@ -8,7 +8,8 @@
 
 ---
 
-## Sobre o projeto
+## 💻 Sobre o projeto
+ Este projeto foi desenvolvido com base no curso **_Desenvolvimento Android e IOS com Flutter 2022 -Crie 15 Apps_** da [Udemy](https://www.udemy.com/).
  Este é um projeto para estudo, uma simples aplicação que trata de uma empresa fictícia de consultorias. 
  
  O usuario podera navegar entre as paginas para obter informaçoes de serviços e contatos.
